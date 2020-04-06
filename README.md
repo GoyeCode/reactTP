@@ -1,2 +1,0 @@
-# reactTP
-Created with CodeSandbox
